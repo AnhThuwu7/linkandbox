@@ -1,0 +1,30 @@
+.box{
+    border: 3px solid rgb(185, 185, 185);
+    border-bottom: 3px solid rgb(35, 144, 144) ;
+    text-align: center;
+    background-color: rgb(35, 144, 144);
+    font-family: sans-serif;
+    color: white;
+    font-size:30px;
+    font-weight: bold;
+    padding-top: 39px;
+    height: auto;
+    width: 500px;
+
+}
+.box1{
+
+    border: 3px solid rgb(185, 185, 185);
+    border-top: 3px solid rgb(35, 144, 144);
+    color: gray;
+    height: auto;
+    width: 500px;
+
+
+}
+#tieude{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: black;
+}
